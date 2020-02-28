@@ -25,18 +25,6 @@ If you found this helpful and are using it within our software please cite the f
 
 import numpy as np
 
-def calc_discount_rewards(rewards, discount):
-    temp = list()
-    for x in rewards:
-        z=list()
-        t=1
-        for y in x:
-            z.append(y*t)
-            t*=discount
-        temp.append(np.array(z))
-        
-    return temp
-
 def extract_path(paths, discount):
     for path in paths:
         p_rewards = path["rewards"]
