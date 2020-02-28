@@ -21,6 +21,6 @@ For Mujoco environments, you need to acquire a license for mujoco-py installatio
 
 We hope that this program will be useful to others, and we would like to hear about your experience with it. If you found it helpful and are using it within our software you are highly encouraged to cite the following publication:
 
-* N. H. Pham, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh, **A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning**, The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020), Palermo, Italy, 2020.
+* N. H. Pham, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh, **A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning**, The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020), Palermo, Italy, 2020.
 
 Feel free to send feedback and questions about the package to our maintainer Nhan H. Pham at <nhanph@live.unc.edu>.
