@@ -13,6 +13,10 @@ pip install --upgrade https://github.com/Theano/Theano/archive/master.zip
 pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 ```
 
+**Note**
+
+For Mujoco environments, you need to acquire a license for mujoco-py installation.
+
 ## Code Usage
 
 We hope that this program will be useful to others, and we would like to hear about your experience with it. If you found it helpful and are using it within our software you are highly encouraged to cite the following publication:
